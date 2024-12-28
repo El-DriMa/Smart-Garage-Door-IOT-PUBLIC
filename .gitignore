@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Angular build output
+dist/
+
+# Firebase cache and config
+.firebase/

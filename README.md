@@ -1,1 +1,1 @@
-# Smart-Garage-Door-IOT-PUBLIC
+# Smart-Garage-Door-IOT
